@@ -18,6 +18,12 @@ const routes = [
     name: 'categories',
     meta: {layout: 'main'},
     component: () => import('../views/CategoriesTest.vue')
+  },
+  {
+    path: '/registration',
+    name: 'registration',
+    meta: {layout: 'empty'},
+    component: () => import('../views/RegTest.vue')
   }
 ]
 

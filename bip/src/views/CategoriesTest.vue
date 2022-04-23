@@ -26,8 +26,8 @@
                   id="limit"
                   type="number"
               >
-              <label for="limit">Лимит</label>
-              <span class="helper-text invalid">Минимальная величина</span>
+              <label for="limit">Тест</label>
+              <span class="helper-text invalid">Тест</span>
             </div>
 
             <button class="btn waves-effect waves-light" type="submit">
@@ -48,13 +48,12 @@
               <select>
                 <option>Category</option>
               </select>
-              <label>Выберите категорию</label>
             </div>
 
             <div class="input-field">
               <input type="text" id="name">
               <label for="name">Название</label>
-              <span class="helper-text invalid">TITLE</span>
+              <span class="helper-text invalid">Введите название</span>
             </div>
 
             <div class="input-field">
@@ -62,8 +61,8 @@
                   id="limit"
                   type="number"
               >
-              <label for="limit">Лимит</label>
-              <span class="helper-text invalid">LIMIT</span>
+              <label for="limit">Тест</label>
+              <span class="helper-text invalid">Тест</span>
             </div>
 
             <button class="btn waves-effect waves-light" type="submit">

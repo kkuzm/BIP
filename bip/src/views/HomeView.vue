@@ -1,7 +1,10 @@
 <template>
-<div>
-  HELLO! IT IS PROJECT BY BITCHES
-</div>
+  <div>
+    <div class="page-title">
+      <h3>Домашняя страница</h3>
+  </div>
+  </div>
+
 </template>
 
 <script>

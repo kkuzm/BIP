@@ -34,7 +34,7 @@
 
     <p class="center">
       Нет аккаунта?
-      <a href="/">Зарегистрироваться</a>
+      <router-link to="/registration">Зарегистрироваться</router-link>
     </p>
   </div>
 </form>

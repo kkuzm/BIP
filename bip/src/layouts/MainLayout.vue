@@ -6,7 +6,6 @@
           <a href="#">
             <i class="material-icons black-text">dehaze</i>
           </a>
-          <span class="black-text">12.12.12</span>
         </div>
 
         <ul class="right hide-on-small-and-down">
@@ -40,19 +39,19 @@
 
     <ul class="sidenav app-sidenav open">
       <li>
-        <a href="#" class="waves-effect waves-orange pointer">Счет</a>
+        <a href="#" class="waves-effect waves-orange pointer">Тест</a>
       </li>
       <li>
-        <a href="#" class="waves-effect waves-orange pointer">История</a>
+        <a href="#" class="waves-effect waves-orange pointer">Тест</a>
       </li>
       <li>
-        <a href="#" class="waves-effect waves-orange pointer">Планирование</a>
+        <a href="#" class="waves-effect waves-orange pointer">Тест</a>
       </li>
       <li>
-        <a href="#" class="waves-effect waves-orange pointer">Новая запись</a>
+        <a href="#" class="waves-effect waves-orange pointer">Тест</a>
       </li>
       <li>
-        <a href="#" class="waves-effect waves-orange pointer">Категории</a>
+        <a href="#" class="waves-effect waves-orange pointer">Тест</a>
       </li>
     </ul>
 

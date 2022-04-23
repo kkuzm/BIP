@@ -27,7 +27,7 @@
           <td>23.04.2022</td>
           <td>
             <button class="btn-small btn">
-              <i class="material-icons">open_in_new</i>
+              <router-link to ="/detail" class="material-icons">open_in_new</router-link>
             </button>
           </td>
         </tr>

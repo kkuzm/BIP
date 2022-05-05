@@ -22,7 +22,7 @@ export default {
       { title: "Домашняя страница", url: "/" },
       { title: "История", url: "/history" },
       { title: "Новая запись", url: "/record" },
-      { title: "Категории", url: "/categories" },
+      { title: "Редактирование записи", url: "/edit" },
     ],
   }),
 };

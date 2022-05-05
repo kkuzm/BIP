@@ -1,7 +1,7 @@
 <template>
   <div>
     <div class="page-title">
-      <h3>Новая запись</h3>
+      <h3>Редактирование записи</h3>
     </div>
 
     <div class="input-field">
@@ -41,10 +41,11 @@
       <label for="description">Описание</label>
       <span class="helper-text invalid">Description</span>
     </div>
-
-    <button class="btn waves-effect waves-light" type="submit">
-      Создать
-      <i class="material-icons right">send</i>
-    </button>
+    <div class="row">
+      <button class="btn waves-effect waves-light" type="submit">
+        Обновить
+        <i class="material-icons right">send</i>
+      </button>
+    </div>
   </div>
 </template>

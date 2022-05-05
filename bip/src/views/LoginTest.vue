@@ -1,5 +1,5 @@
 <template>
-<form class="card auth-card">
+<form class="card auth-card" >
   <div class="card-content">
     <span class="card-title">ТЕСТ</span>
     <div class="input-field">
@@ -39,3 +39,30 @@
   </div>
 </form>
 </template>
+
+<!--
+<script>
+import {email, required, minLength} from 'vuelidate/lib/validators'
+
+
+export default {
+  name: 'login-enter',
+  data: () => ({
+    email:'',
+    password:''
+  }),
+  validations: {
+    email: {email, required},
+    password: {required, minLength: minLength(6)}
+  },
+  methods: {
+    submitHandler() {
+      if (this.$v.$invalid) {
+        this.$v.$touch()
+        return
+      }
+      this.$router.push('/')
+    }
+  }
+}
+</script>-->

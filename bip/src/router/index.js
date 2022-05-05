@@ -15,10 +15,10 @@ const routes = [
     component: () => import('../views/LoginTest.vue')
   },
   {
-    path: '/categories',
-    name: 'categories',
+    path: '/edit',
+    name: 'edit',
     meta: {layout: 'main'},
-    component: () => import('../views/CategoriesTest.vue')
+    component: () => import('../views/EditTest.vue')
   },
   {
     path: '/registration',

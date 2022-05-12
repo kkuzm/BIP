@@ -15,7 +15,7 @@
         <tr>
           <th>#</th>
           <th>Дисциплина</th>
-          <th>Дата дедлайна</th>
+          <th>Дедлайн</th>
           <th>Открыть</th>
         </tr>
         </thead>
@@ -24,7 +24,7 @@
         <tr>
           <td>1</td>
           <td>Название</td>
-          <td>23.04.2022</td>
+          <td>01.01.2022 23:59</td>
           <td>
             <button class="btn-small btn">
               <router-link to ="/detail" class="material-icons">open_in_new</router-link>

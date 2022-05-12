@@ -13,9 +13,12 @@
               <p>Дисциплина:</p>
               <p>Дедлайн:</p>
               <p>Описание:</p>
+              <button type="submit">Прикрепить к группе</button>
+              <button type="submit">Открепить от группы</button>
               <button>
                 <router-link to="/edit">Редактировать</router-link>
               </button>
+              <button type="submit">Удалить задачу</button>
             </div>
           </div>
         </div>

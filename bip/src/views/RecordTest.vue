@@ -18,20 +18,20 @@
 
     <head>
       <meta charset="utf-8" />
-      <title>Календарь</title>
     </head>
     <body>
       <form>
         <p>
-          Выберите дату дедлайна:
-          <input
-            type="date"
-            name="calendar"
-            value="2022-01-01"
-            max="2024-01-01"
-            min="2021-01-01"
-          />
-          <input type="submit" value="Отправить" />
+          Дедлайн
+          <input type="datetime-local" id="localdate" name="Deadline" />
+        </p>
+        <p>
+          Начальная дата и время показа уведомлений
+          <input type="datetime-local" id="localdate" name="NotificationDate" />
+        </p>
+        <p>
+          Частота уведомлений
+          <input type="time" id="time" name="NotificationFrequency" />
         </p>
       </form>
     </body>

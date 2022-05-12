@@ -12,7 +12,7 @@
         >
         <label for="description">Пароль</label>
         <span
-              class="helper-text invalid">password</span>
+              class="helper-text invalid">Password</span>
       </div>
 
       <button class="btn waves-effect waves-light" type="submit">

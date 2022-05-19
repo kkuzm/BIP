@@ -1,7 +1,7 @@
 <template>
 <form class="card auth-card" >
   <div class="card-content">
-    <span class="card-title">ТЕСТ</span>
+    <span class="card-title">ВХОД</span>
     <div class="input-field">
       <input
           id="email"
